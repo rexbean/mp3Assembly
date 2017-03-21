@@ -1,0 +1,12 @@
+D:\inspiration\Music\MP3disassembly\MP3disassembly\bin\Debug\MP3disassembly.exe
+D:\inspiration\Music\MP3disassembly\MP3disassembly\bin\Debug\MP3disassembly.pdb
+D:\inspiration\Music\MP3disassembly\MP3disassembly\obj\x86\Debug\MP3disassembly.exe
+D:\inspiration\Music\MP3disassembly\MP3disassembly\obj\x86\Debug\MP3disassembly.pdb
+D:\inspiration\Music\MP3disassembly\MP3disassembly\obj\x86\Debug\MP3disassembly.csprojResolveAssemblyReference.cache
+G:\备份数据\inspiration\Music\MP3disassembly\MP3disassembly\obj\x86\Debug\MP3disassembly.exe
+G:\备份数据\inspiration\Music\MP3disassembly\MP3disassembly\obj\x86\Debug\MP3disassembly.pdb
+G:\备份数据\inspiration\Music\MP3disassembly\MP3disassembly\bin\Debug\MP3disassembly.exe
+G:\备份数据\inspiration\Music\MP3disassembly\MP3disassembly\bin\Debug\MP3disassembly.pdb
+G:\备份数据\inspiration\Music\MP3disassembly\MP3disassembly\obj\x86\Debug\MP3disassembly.csprojResolveAssemblyReference.cache
+G:\备份数据\inspiration\Processing\Music\MP3disassembly\MP3disassembly\obj\x86\Debug\MP3disassembly.exe
+G:\备份数据\inspiration\Processing\Music\MP3disassembly\MP3disassembly\obj\x86\Debug\MP3disassembly.pdb
